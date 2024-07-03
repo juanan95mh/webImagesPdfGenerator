@@ -1,0 +1,1 @@
+Quería construirme una guia de escalada en pdf con todas las imagenes de croquis de una URL en concreto, por lo que aprovecho para automatizarlo y hacer un prototipo de extractor de imagenes linkadas en cierta URL.
